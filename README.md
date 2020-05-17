@@ -5,3 +5,5 @@ The application is also connected to MySql database through JPA controller class
 DATABASE NAME : rsadb
 
 Table name: Rsadb
+
+Sample output:
